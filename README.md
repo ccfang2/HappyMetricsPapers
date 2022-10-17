@@ -1,4 +1,4 @@
-<h1 name="title">
+<h1 id="title">
   Happy Metrics Papers
 </h1>
 
@@ -7,6 +7,7 @@
 > This is a curated list of papers on Econometrics that are sorted by topic and year. On top of that, they are sorted by where I read it, such as a reading group, a seminar or a topic course.
 ---
 
+## Prelude
 All papers listed in this repo have been discussed at the following occasions, except papers in Super Happy section. Papers are listed with their publication year, title, author(s), topic, key words, venue, and links to the paper and/or code. Sections without :ballot_box_with_check: will be updated regularly, while those with :ballot_box_with_check: will not have updates any more.
 
 - [ ] Reading group, BGSE
@@ -15,6 +16,7 @@ All papers listed in this repo have been discussed at the following occasions, e
 - [ ] Seminars, BGSE
 - [ ] Super Happy Papers
 
+## Lists of Papers
 Click :arrow_forward: to expand a section and :arrow_down_small: to hide. Search keywords over webpage to locate papers quickly.
 
 <details><summary>Reading Group, BGSE</summary>
@@ -24,7 +26,7 @@ Click :arrow_forward: to expand a section and :arrow_down_small: to hide. Search
   
 |Year|Title|Author(s)|Topic|Keywords|Venue|Paper|Code|Note
 |---|---|---|---|---|---|---|---|---|
-|2008|Regression discontinuity designs: A guide to practice|Imbens and Lemieux|RD||J Metrics|[Link](https://www.sciencedirect.com/science/article/abs/pii/S0304407607001091)||
+|2008|**Regression discontinuity designs: A guide to practice**|Imbens and Lemieux|RD||J Metrics|[Link](https://www.sciencedirect.com/science/article/abs/pii/S0304407607001091)||
 
 </p>
 </details>
@@ -36,7 +38,7 @@ Click :arrow_forward: to expand a section and :arrow_down_small: to hide. Search
 
 |Year|Title|Author(s)|Topic|Keywords|Venue|Paper|Code|Note
 |---|---|---|---|---|---|---|---|---|
-|2021|Difference-in-differences with variation in treatment timing|Goodman-Bacon|DID|DiD, Variation in treatment timing, TWFE, Treatment effect heterogeneity| J Metrics|[Link](https://www.sciencedirect.com/science/article/abs/pii/S0304407621001445)||
+|2021|**Difference-in-differences with variation in treatment timing**|Goodman-Bacon|DID|DiD, Variation in treatment timing, TWFE, Treatment effect heterogeneity| J Metrics|[Link](https://www.sciencedirect.com/science/article/abs/pii/S0304407621001445)||
   
 </p>
 </details>
@@ -57,7 +59,7 @@ Click :arrow_forward: to expand a section and :arrow_down_small: to hide. Search
 
 |Year|Date|Speaker|Affiliation|Title|Keywords|Paper|Code|Note|
 |---|---|---|---|---|---|---|---|---|
-|2022|Oct 20|Florian Gunsilius|University of Michigan|Matching for causal effects via multimarginal unbalanced optimal transport||[Link](https://arxiv.org/abs/2112.04398)||
+|2022|Oct 20|Florian Gunsilius|University of Michigan|**Matching for causal effects via multimarginal unbalanced optimal transport**||[Link](https://arxiv.org/abs/2112.04398)||
   
 </p>
 </details>
@@ -73,5 +75,5 @@ Click :arrow_forward: to expand a section and :arrow_down_small: to hide. Search
 </p>
 </details>
 
-[[Back to Top]](#title)
 
+### [[Back to Top]](#title)
