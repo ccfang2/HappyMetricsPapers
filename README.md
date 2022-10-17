@@ -13,7 +13,7 @@ All papers listed in this repo have been discussed at the following occasions, e
 - [ ] Topic Course in Metrics, 2022/23 WiSe, BGSE
 - [x] Topic Course in Metrics, 2022 SoSe, BGSE
 - [ ] Seminars, BGSE
-- [ ] Super Happy
+- [ ] Super Happy Papers
 
 Click :arrow_forward: to expand a section and :arrow_down_small: to hide. Search keywords over webpage to locate papers quickly.
 
@@ -24,9 +24,54 @@ Click :arrow_forward: to expand a section and :arrow_down_small: to hide. Search
   
 |Year|Title|Author(s)|Topic|Keywords|Venue|Paper|Code|Note
 |---|---|---|---|---|---|---|---|---|
-|2008|Regression discontinuity designs: A guide to practice|Imbens and Lemieux|RD||J Metrics|[Link](https://www.sciencedirect.com/science/article/abs/pii/S0304407607001091)|
-
-
+|2008|Regression discontinuity designs: A guide to practice|Imbens and Lemieux|RD||J Metrics|[Link](https://www.sciencedirect.com/science/article/abs/pii/S0304407607001091)||
 
 </p>
 </details>
+
+<details><summary>Topic Course in Metrics, 2022/23 WiSe, BGSE</summary>
+<p>
+
+> This topic course in Econometrics and Statistics is given by [Prof. Janys](https://sites.google.com/site/janyslena/research) during 2022/23 WiSe at BGSE.
+
+|Year|Title|Author(s)|Topic|Keywords|Venue|Paper|Code|Note
+|---|---|---|---|---|---|---|---|---|
+|2021|Difference-in-differences with variation in treatment timing|Goodman-Bacon|DID|DiD, Variation in treatment timing, TWFE, Treatment effect heterogeneity| J Metrics|[Link](https://www.sciencedirect.com/science/article/abs/pii/S0304407621001445)||
+  
+</p>
+</details>
+
+<details><summary>Topic Course in Metrics, 2022 SoSe, BGSE</summary>
+<p>
+
+> This topic course in Econometrics and Statistics is given by [Prof. Freyberger]([https://sites.google.com/site/janyslena/research](https://www.econ.uni-bonn.de/en/department/team/professors/joachim-freyberger)) during 2022/23 WiSe at BGSE.
+
+  
+</p>
+</details>
+
+<details><summary>Seminars, BGSE</summary>
+<p>
+
+> Seminars are official events organized by BGSE, where researchers present their working or published papers.
+
+|Year|Date|Speaker|Affiliation|Title|Keywords|Paper|Code|Note|
+|---|---|---|---|---|---|---|---|---|
+|2022|Oct 20|Florian Gunsilius|University of Michigan|Matching for causal effects via multimarginal unbalanced optimal transport||[Link](https://arxiv.org/abs/2112.04398)||
+  
+</p>
+</details>
+
+<details><summary>Super Happy Papers</summary>
+<p>
+
+> This section lists papers I read at occasions other than those above.
+
+|Year|Title|Author(s)|Topic|Keywords|Venue|Paper|Code|Note
+|---|---|---|---|---|---|---|---|---|
+  
+</p>
+</details>
+
+[[Back to Top]](#title)
+
