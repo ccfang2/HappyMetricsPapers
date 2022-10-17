@@ -24,7 +24,7 @@ Click :arrow_forward: to expand a section and :arrow_down_small: to hide. Search
 
 > This reading group is an informal event organized by professors and PhD students at BGSE, and focuses on theoretical Econometrics. It is led by [Prof. Freyberger](https://www.econ.uni-bonn.de/en/department/team/professors/joachim-freyberger) and runs every week during semester.
   
-|Year|Title|Author(s)|Topic|Keywords|Venue|Paper|Code|Note
+|Year|Title|Author(s)|Topic|Keywords|Venue|Paper|Code|Note|
 |---|---|---|---|---|---|---|---|---|
 |2008|**Regression discontinuity designs: A guide to practice**|Imbens and Lemieux|RD||J Metrics|[Link](https://www.sciencedirect.com/science/article/abs/pii/S0304407607001091)||
 
@@ -36,9 +36,9 @@ Click :arrow_forward: to expand a section and :arrow_down_small: to hide. Search
 
 > This topic course in Econometrics and Statistics is given by [Prof. Janys](https://sites.google.com/site/janyslena/research) during 2022/23 WiSe at BGSE.
 
-|Year|Title|Author(s)|Topic|Keywords|Venue|Paper|Code|Note
+|Year|Title|Author(s)|Topic|Keywords|Venue|Paper|Code|Note|
 |---|---|---|---|---|---|---|---|---|
-|2021|**Difference-in-differences with variation in treatment timing**|Goodman-Bacon|DID|DiD, Variation in treatment timing, TWFE, Treatment effect heterogeneity| J Metrics|[Link](https://www.sciencedirect.com/science/article/abs/pii/S0304407621001445)||
+|2021|**Difference-in-differences with variation in treatment timing**|Goodman-Bacon|DID|DiD, Variation in treatment timing, TWFE, Treatment effect heterogeneity| J Metrics|[Link](https://www.sciencedirect.com/science/article/abs/pii/S0304407621001445)||Errors come when using earlier treated group as control group; Weight of forbidden pairs reaches peak when the final treatment is right in the middle from first treatment to the end|
   
 </p>
 </details>
@@ -69,7 +69,7 @@ Click :arrow_forward: to expand a section and :arrow_down_small: to hide. Search
 
 > This section lists papers I read at occasions other than those above.
 
-|Year|Title|Author(s)|Topic|Keywords|Venue|Paper|Code|Note
+|Year|Title|Author(s)|Topic|Keywords|Venue|Paper|Code|Note|
 |---|---|---|---|---|---|---|---|---|
   
 </p>
@@ -80,4 +80,4 @@ Click :arrow_forward: to expand a section and :arrow_down_small: to hide. Search
 Chencheng Fang, Email: [ccfang[at]uni-bonn.de](mailto:ccfang@uni-bonn.de),
 Bonn Graduate School of Economics, University of Bonn, Germany
 
-### [[Back to Top]](#title)
+## [[Back to Top]](#title)
