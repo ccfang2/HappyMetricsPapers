@@ -75,5 +75,9 @@ Click :arrow_forward: to expand a section and :arrow_down_small: to hide. Search
 </p>
 </details>
 
+## Contact
+
+Chencheng Fang, Email: [ccfang[at]uni-bonn.de](mailto:ccfang@uni-bonn.de),
+Bonn Graduate School of Economics, University of Bonn, Germany
 
 ### [[Back to Top]](#title)
