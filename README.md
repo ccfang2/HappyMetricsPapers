@@ -26,7 +26,7 @@ Click :arrow_forward: to expand a section and :arrow_down_small: to hide. Search
   
 |Year|Title|Author(s)|Topic|Keywords|Venue|Paper|Code|Note|
 |---|---|---|---|---|---|---|---|---|
-|2008|**Regression discontinuity designs: A guide to practice**|Imbens and Lemieux|RD||J Metrics|[Link](https://www.sciencedirect.com/science/article/abs/pii/S0304407607001091)||
+|2008|**Regression discontinuity designs: A guide to practice**|Imbens and Lemieux|RD||J Metrics|[Link](https://www.sciencedirect.com/science/article/abs/pii/S0304407607001091)||For occasions where SRD on left and FRD on right, assumption 2.3 is not needed|
 
 </p>
 </details>
@@ -39,6 +39,7 @@ Click :arrow_forward: to expand a section and :arrow_down_small: to hide. Search
 |Year|Title|Author(s)|Topic|Keywords|Venue|Paper|Code|Note|
 |---|---|---|---|---|---|---|---|---|
 |2021|**Difference-in-differences with variation in treatment timing**|Goodman-Bacon|DID|DiD, Variation in treatment timing, TWFE, Treatment effect heterogeneity| J Metrics|[Link](https://www.sciencedirect.com/science/article/abs/pii/S0304407621001445)||Errors come when using earlier treated group as control group; Weight of forbidden pairs reaches peak when the final treatment is right in the middle from first treatment to the end|
+|2021|**Estimating dynamic treatment effects in event studies with heterogeneous treatment effects**|
   
 </p>
 </details>
@@ -74,6 +75,10 @@ Click :arrow_forward: to expand a section and :arrow_down_small: to hide. Search
   
 </p>
 </details>
+
+## How to Collaborate
+
+
 
 ## Contact
 
