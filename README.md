@@ -39,7 +39,9 @@ Click :arrow_forward: to expand a section and :arrow_down_small: to hide. Search
 |Year|Title|Author(s)|Topic|Keywords|Venue|Paper|Code|Note|
 |---|---|---|---|---|---|---|---|---|
 |2021|**Difference-in-differences with variation in treatment timing**|Goodman-Bacon|DID|DiD, Variation in treatment timing, TWFE, Treatment effect heterogeneity| J Metrics|[Link](https://www.sciencedirect.com/science/article/abs/pii/S0304407621001445)||Errors come when using earlier treated group as control group; Weight of forbidden pairs reaches peak when the final treatment is right in the middle from first treatment to the end|
-|2021|**Estimating dynamic treatment effects in event studies with heterogeneous treatment effects**|
+|2021|**Estimating dynamic treatment effects in event studies with heterogeneous treatment effects**|Sun and Abraham|Event Study, DiD|DiD, TWFE, Pretrend test|J Metrics|[Link](https://www.sciencedirect.com/science/article/abs/pii/S030440762030378X)||
+|2021|**Difference-in-Differences with Spatial Spillovers**|Butts|DiD, Spatial Spillover||arXiv|[Link](https://arxiv.org/abs/2105.03737)||DID=Direct Effect+Spillover on Treated+Spillover on Control
+
   
 </p>
 </details>
@@ -48,6 +50,10 @@ Click :arrow_forward: to expand a section and :arrow_down_small: to hide. Search
 <p>
 
 > This topic course in Econometrics and Statistics is given by [Prof. Freyberger]([https://sites.google.com/site/janyslena/research](https://www.econ.uni-bonn.de/en/department/team/professors/joachim-freyberger)) during 2022/23 WiSe at BGSE.
+
+|Year|Title|Author(s)|Topic|Keywords|Venue|Paper|Code|Note|
+|---|---|---|---|---|---|---|---|---|
+|2019|**On Deep Learning as a Remedy for the Curse of Dimensionality in Nonparametric Regression**|Bauer and Kohler|Nonparametric Regression, Curse of Dimensionality, Multilayer feedforward neural network||Annals Stats|[Link](https://projecteuclid.org/journals/annals-of-statistics/volume-47/issue-4/On-deep-learning-as-a-remedy-for-the-curse-of/10.1214/18-AOS1747.full)||[Link](https://github.com/ccfang2/TopicsMetricsStats2022)|
 
   
 </p>
@@ -60,7 +66,7 @@ Click :arrow_forward: to expand a section and :arrow_down_small: to hide. Search
 
 |Year|Date|Speaker|Affiliation|Title|Keywords|Paper|Code|Note|
 |---|---|---|---|---|---|---|---|---|
-|2022|Oct 20|Florian Gunsilius|University of Michigan|**Matching for causal effects via multimarginal unbalanced optimal transport**||[Link](https://arxiv.org/abs/2112.04398)||
+|2022|Oct 20|Florian Gunsilius|University of Michigan|**Matching for causal effects via multimarginal unbalanced optimal transport**||[Link](https://arxiv.org/abs/2112.04398)||Equation (5): In coupling, instead of requiring its marginal dists to be exactly as $\mu$ s, they allow some variations. From classical matching to unbalanced matching and then only a few good matches, variation increases but bias decreases.
   
 </p>
 </details>
