@@ -1,3 +1,4 @@
+
 <h1 id="title">
   Happy Metrics Papers
 </h1>
@@ -82,8 +83,27 @@ Click :arrow_forward: to expand a section and :arrow_down_small: to hide. Search
 </p>
 </details>
 
-## How to Collaborate
+## How to Collaborate[^1]
 
+Follow steps below to collaborate on this repository
+1. `Fork` this repository to your own GitHub.
+2. Open you terminal, and in your shell[^2]:
+    ```shell
+    git clone [your HTTPS] # save repo to your local machine
+    git checkout -b [your new branch title] # create a new branch
+    emacs -nw readme.md # open readme.md
+    ```
+3. Revise `readme.md` file.
+4. Open terminal again, and in your shell:
+    ```shell
+    git status # check status
+    git diff # check revision you just made
+    git add readme.md # add revision to your branch
+    git commit -m [your comment] # commit your revision
+    git push origin [your branch title defined above] # push
+5. Open your GitHub, and you may find the new branch you just push.
+6. Click "Compare & pull request", and create a pull request.
+7. Your pull request will then be accepted or rejected on my side.
 
 
 ## Contact
@@ -92,3 +112,6 @@ Chencheng Fang, Email: [ccfang[at]uni-bonn.de](mailto:ccfang@uni-bonn.de),
 Bonn Graduate School of Economics, University of Bonn, Germany
 
 ## [[Back to Top]](#title)
+
+[^1]: Please refer to this [video](https://www.youtube.com/watch?v=rgbCcBNZcdQ) for details.
+[^2]: You are required to enter your GitHub password to copy this repo to your local directory. If it doesn't work, please create a personal access token and use the token instead of your password. To create a token, go to your account setting, and then developer settings.
