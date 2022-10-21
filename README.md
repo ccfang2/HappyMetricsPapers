@@ -114,4 +114,4 @@ Bonn Graduate School of Economics, University of Bonn, Germany
 ## [[Back to Top]](#title)
 
 [^1]: Please refer to this [video](https://www.youtube.com/watch?v=rgbCcBNZcdQ) for details.
-[^2]: You are required to enter your GitHub password to copy this repo to your local directory. If it doesn't work, please create a personal access token and use the token instead of your password. To create a token, go to your account setting, and then developer settings.
+[^2]: You are required to enter your GitHub account name and password to copy this repo to your local directory. If your password doesn't work, please create a personal access token and use the token instead of your password. To create a token, go to your account setting, and then developer settings.
