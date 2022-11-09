@@ -27,8 +27,12 @@ Click :arrow_forward: to expand a section and :arrow_down_small: to hide. Search
   
 |Year|Title|Author(s)|Topic|Keywords|Venue|Paper|Code|Note|
 |---|---|---|---|---|---|---|---|---|
+|2022|**Linear regression with centrality measures**|Yong Cai|Network, Centrality|Networks, diffusion centrality, eigenvector centrality|JMP|[Link](https://arxiv.org/abs/2210.10024)||Symmetry of metrix $A$ is not necessary; In sparse network, $a$ is a friend of $b$, who is a friend of $c$. But, $a$ is not a friend of $c$. So, an IV can be constructed; With $n \rightarrow \infty$, $C^{(d)} \rightarrow \infty$ but then $Y_i \rightarrow \infty$ as $\beta^{(d)} \rightarrow \beta$ which is a constant; Non-linearity of this problem|
+|2022|**Nonlinear and nonseparable structural functions in fuzzy regression discontinuity designs**|Haitian Xie|Continuous Treatment, Fuzzy RD||JMP|[Link](https://arxiv.org/abs/2204.08168)|||
+|2022|**Bounding treatment effects in experimental studies with non-compliance: the value of follow up surveys**|Orville Mondal|Non-compliance||JMP|[Link](https://omondal.github.io/docs/jmp.pdf)||Never start with non-testable assumptions; Population -> *assigned treatment* and *assigned control*; Assigned treatment -> *comply* and *not comply*; Not comply can be further divided; Assigned control -> *accept* and *not accept*|
 |2008|**Regression discontinuity designs: A guide to practice**|Imbens and Lemieux|RD||J Metrics|[Link](https://www.sciencedirect.com/science/article/abs/pii/S0304407607001091)||For occasions where SRD on left and FRD on right, assumption 2.3 is not needed|
 
+  
 </p>
 </details>
 
@@ -39,6 +43,10 @@ Click :arrow_forward: to expand a section and :arrow_down_small: to hide. Search
 
 |Year|Title|Author(s)|Topic|Keywords|Venue|Paper|Code|Note|
 |---|---|---|---|---|---|---|---|---|
+|2022|**A More Credible Approach to Parallel Trends**|Ashesh Rambachan, Jonathan Roth|DiD, Violation of parallel trend||Review of Economic Studies|[Link](https://jonathandroth.github.io/assets/files/HonestParallelTrends_Main.pdf)|[Code](https://github.com/asheshrambachan/HonestDiD)||
+|2022|**Pretest with Caution: Event-Study Estimates after Testing for Parallel Trends**|Jonathan Roth|Pretrend testing, Parallel trend||AER: Insights|[Link](https://www.aeaweb.org/articles?id=10.1257/aeri.20210236)|[Code](https://github.com/jonathandroth/pretrends#pretrends)|Even if pretrend test passes, the insignificant pretrend may lead to significant posttrend
+|2022|**Selection and parallel trends**|Dalia Ghanem, Pedro H.C. Danta'Anna, Kaspar Wüthrich|DiD, Parallel trends, Selection Mechanism||WP|[link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4215029)|||
+|2021|**Synthetic Difference-in-Differences**|Arkhangelsky et al.|DiD, Synthetic Control||AER|[Link](https://www.aeaweb.org/articles?id=10.1257/aer.20190159)|||
 |2021|**Difference-in-differences with variation in treatment timing**|Goodman-Bacon|DID|DiD, Variation in treatment timing, TWFE, Treatment effect heterogeneity| J Metrics|[Link](https://www.sciencedirect.com/science/article/abs/pii/S0304407621001445)||Errors come when using earlier treated group as control group; Weight of forbidden pairs reaches peak when the final treatment is right in the middle from first treatment to the end|
 |2021|**Estimating dynamic treatment effects in event studies with heterogeneous treatment effects**|Sun and Abraham|Event Study, DiD|DiD, TWFE, Pretrend test|J Metrics|[Link](https://www.sciencedirect.com/science/article/abs/pii/S030440762030378X)||
 |2021|**Difference-in-Differences with Spatial Spillovers**|Butts|DiD, Spatial Spillover||arXiv|[Link](https://arxiv.org/abs/2105.03737)||DID=Direct Effect+Spillover on Treated+Spillover on Control
@@ -68,6 +76,7 @@ Click :arrow_forward: to expand a section and :arrow_down_small: to hide. Search
 |Year|Date|Speaker|Affiliation|Title|Keywords|Paper|Code|Note|
 |---|---|---|---|---|---|---|---|---|
 |2022|Oct 20|Florian Gunsilius|University of Michigan|**Matching for causal effects via multimarginal unbalanced optimal transport**||[Link](https://arxiv.org/abs/2112.04398)||Equation (5): In coupling, instead of requiring its marginal dists to be exactly as $\mu$ s, they allow some variations. From classical matching to unbalanced matching and then only a few good matches, variation increases but bias decreases.
+|2022|
   
 </p>
 </details>
